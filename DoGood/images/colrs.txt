@@ -1,0 +1,21 @@
+Modis: #FCF229
+
+hare: #4F5F6F
+
+rat: #5E9684 
+
+ants: #676A8D
+
+cricket: #5BB736
+
+bear: #EAB2BE
+
+squirrel: #CC5431
+
+frog: #F6652E
+
+beaver: #770B8D
+
+sanic: #243172
+
+scarecrow: #7B0005
